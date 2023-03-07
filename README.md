@@ -7,9 +7,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## Warmindo-App
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Warmindo app dibuat oleh Lil alamin dengan pasar memenuhi website di sektor perkulineran jalan,kemudahan bertransaksi dan kemudahan pemesanan
+dengan kata lain mengurangi jumlah waktu yang digunakan untuk memesan yang membuat antrian panjang
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
